@@ -1,2 +1,3 @@
-# wksp-secondweek
-Web sovelluskehityksen perusteet toinen viikko
+# wop-starters
+
+Choose a branch and download as zip.
